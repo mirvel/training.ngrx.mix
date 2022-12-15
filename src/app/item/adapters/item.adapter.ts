@@ -1,0 +1,1 @@
+export const itemAdapter:EntityAdapter<Item>=createEntityAdapter<Item>();
